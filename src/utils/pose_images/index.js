@@ -15,7 +15,3 @@ export const poseImages = {
     Traingle: traingle,
     Shoulderstand: shoulderstand
 } 
-
-
-
- 
